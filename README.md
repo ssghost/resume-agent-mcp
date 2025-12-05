@@ -8,6 +8,3 @@
 - Gemma 3 4B GGUF 
 
 ## deps
-
-```bash
-pip install -r requirements.txt
